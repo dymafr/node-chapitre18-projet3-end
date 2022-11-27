@@ -12,10 +12,10 @@
   "license": "ISC",
   "dependencies": {
     "errorhandler": "^1.5.1",
-    "express": "^4.17.1",
-    "mongoose": "^5.12.2",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.3",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.7",
+    "nodemon": "^2.0.20",
     "pug": "^3.0.2"
   }
 }
